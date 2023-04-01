@@ -1,4 +1,4 @@
-# telegram_bot
+# ChatGenie Telegram Bot
 ## Prerequisites
 
 - python3
