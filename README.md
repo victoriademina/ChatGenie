@@ -2,8 +2,8 @@
 
 ## Introduction
 ChatGenie is an AI-powered Telegram bot built using Python and the aiogram library. 
-It uses the OpenAI ChatGPT API to generate responses to user messages in natural language. 
-ChatGenie can be used to chat with users, answer questions, and provide recommendations or suggestions.
+It uses the OpenAI ChatGPT API to generate responses to user messages in natural language.
+
 
 ## Prerequisites
 
